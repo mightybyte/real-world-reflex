@@ -1,0 +1,8 @@
+td { text-align: center!important; }
+.noncentered td { text-align: left!important; }
+.noncentered td { font-size: 22pt; }
+input {
+    width: 100%;
+    line-height: 2em;
+    vertical-align: middle;
+}
