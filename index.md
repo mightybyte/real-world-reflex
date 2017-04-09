@@ -435,7 +435,9 @@ and
 
 ## Questions?
 
+https://github.com/mightybyte/real-world-reflex
+
 doug@takt.com
 
-Looking for a job?  We're hiring!
+Looking for a job?  Takt is hiring!
 
