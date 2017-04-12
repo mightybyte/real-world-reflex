@@ -147,7 +147,7 @@ Construction
 ### (a Maybe)
 
     fmapMaybe    :: (a -> Maybe b) -> Event a         -> Event b
-    fmapMaybe id ::                   Event (Maybe a) -> Event b
+    fmapMaybe id ::                   Event (Maybe a) -> Event a
   
 # Widget Patterns
 
@@ -435,7 +435,7 @@ and
 
 ## Questions?
 
-https://github.com/mightybyte/real-world-reflex
+http://mightybyte.net/real-world-reflex/index.html
 
 doug@takt.com
 
